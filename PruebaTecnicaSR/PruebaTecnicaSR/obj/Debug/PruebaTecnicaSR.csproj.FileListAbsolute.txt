@@ -1,0 +1,7 @@
+C:\Users\junio\OneDrive\Escritorio\PruebatecnicaGestorSR-Desarrollador.NET\PruebaTecnicaSR\PruebaTecnicaSR\bin\Debug\PruebaTecnicaSR.exe.config
+C:\Users\junio\OneDrive\Escritorio\PruebatecnicaGestorSR-Desarrollador.NET\PruebaTecnicaSR\PruebaTecnicaSR\bin\Debug\PruebaTecnicaSR.exe
+C:\Users\junio\OneDrive\Escritorio\PruebatecnicaGestorSR-Desarrollador.NET\PruebaTecnicaSR\PruebaTecnicaSR\bin\Debug\PruebaTecnicaSR.pdb
+C:\Users\junio\OneDrive\Escritorio\PruebatecnicaGestorSR-Desarrollador.NET\PruebaTecnicaSR\PruebaTecnicaSR\obj\Debug\PruebaTecnicaSR.csproj.AssemblyReference.cache
+C:\Users\junio\OneDrive\Escritorio\PruebatecnicaGestorSR-Desarrollador.NET\PruebaTecnicaSR\PruebaTecnicaSR\obj\Debug\PruebaTecnicaSR.csproj.CoreCompileInputs.cache
+C:\Users\junio\OneDrive\Escritorio\PruebatecnicaGestorSR-Desarrollador.NET\PruebaTecnicaSR\PruebaTecnicaSR\obj\Debug\PruebaTecnicaSR.exe
+C:\Users\junio\OneDrive\Escritorio\PruebatecnicaGestorSR-Desarrollador.NET\PruebaTecnicaSR\PruebaTecnicaSR\obj\Debug\PruebaTecnicaSR.pdb
